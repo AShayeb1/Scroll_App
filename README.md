@@ -1,4 +1,4 @@
-# Scroll_App
+# Scroll App
 <img width="462" height="427" alt="Image" src="https://github.com/user-attachments/assets/ecde0155-f7bf-4e4e-911e-ff131e294b90" />
 
 برنامج Windows يساعدك على التحكم في التمرير والضغط الأوسط للماوس بواسطة لوحة المفاتيح، مع إعدادات مرنة ودعم الواجهة العربية.
